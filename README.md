@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=danielrivera03&color=red)
 <h2 align="center">¡Hola, 👊 Bienvenido(a)! 👋😼 </h2>
-<img src="https://img.17qq.com/images/crswuhswrqx.jpeg" height="300">
-<p>👉 Mi nombre es Daniel Rivera, Salvadoreño 🇸🇻 gracias por visitar mi repositorio, acá encontrarás diferentes proyectos desarrollados con mucho detalle y dedicación que espero te sean de mucha utilidad.</p>
+<p>👉 Mi nombre es Daniel Rivera 🇸🇻 gracias por visitar mi repositorio, acá encontrarás diferentes proyectos desarrollados con mucho detalle y dedicación que espero te sean de mucha utilidad.</p>
 
 <h3>Mis pasatiempos favoritos:</h3>
 
@@ -12,7 +11,7 @@
 
 ---
 
-<p align="left"><b>Lenguajes de programación y herramientas que utilizo: </b></h3><img src="https://img.17qq.com/images/hmcodkcnppv.jpeg" width="30" height="30"></p>
+<p align="left"><b>Lenguajes de programación y herramientas que utilizo: </b></h3></p>
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="c++" width="75" height="75"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="75" height="75"/>
