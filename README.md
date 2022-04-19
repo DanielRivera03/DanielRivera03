@@ -11,25 +11,30 @@
 
 ---
 
-<p align="left"><b>Lenguajes de programación y herramientas que utilizo: </b></h3></p>
+<p align="left"><b>Lenguajes de programación, framework, bases de datos y herramientas que utilizo: </b></h3></p>
 <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" alt="c++" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_php_256_30044.png" alt="php" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/17/PNG/256/social_html5_1970.png" alt="html5" width="75" height="75"/> 
-  <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_css_256_30045.png" alt="css" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/100/PNG/256/css3_socialnetwork_17450.png" alt="css3" width="75" height="75"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/textxjavascript_103696.png" alt="javascript" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="jquery" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/ajax.svg" alt="ajax" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="sql" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/mysqlworkbench_103806.png" alt="mysql" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_svg_256_30063.png" alt="svg" width="75" height="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Inkscape_logo_%282-colour%29.svg" alt="inkscape" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" alt="visual-studio-code" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png" alt="visual-studio-" width="75" height="75"/>
-  <img src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_photoshop_folder_icon_133961.png" alt="photoshop" width="75" height="75"/>
+  <img align="left" alt="C Plus Plus" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="c sharp" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+  <img align="left" alt=".net" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="dotnetcore" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="php" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="apache" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="java" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="javascript" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="jquery" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="html" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="css" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="bootstrap" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="sass" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+  <br><br><br>
+  <img align="left" alt="sqlserver" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="mysql" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
+  <img align="left" alt="visualstudio" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="visualstudiocode" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="photoshop" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+  <img align="left" alt="inskape" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" style="padding-right:10px;" />
+  
 </p>
 
 <!--
