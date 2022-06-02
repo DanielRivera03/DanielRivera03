@@ -2,7 +2,7 @@
 
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/44457989/164160616-78ac548d-a16f-4f7f-a502-8db5d1d477e3.jpg" />
-<h2 align="center">¡Hola, 👊 Bienvenido(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">😼 </h2>
+<h2 align="center">¡Hola, 👊 Bienvenido(a)! <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">😼 </h2>
 <p>👉 Mi nombre es Daniel Rivera 🇸🇻 gracias por visitar mi repositorio, acá encontrarás diferentes proyectos desarrollados con mucho detalle y dedicación que espero te sean de mucha utilidad.</p>
 
 <h3>Mis pasatiempos favoritos:</h3>
