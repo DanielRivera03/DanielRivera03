@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=danielrivera03&color=red)
+![](https://komarev.com/ghpvc/?username=danielrivera03&style=for-the-badge&color=blueviolet)
 
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/44457989/164160616-78ac548d-a16f-4f7f-a502-8db5d1d477e3.jpg" />
@@ -15,28 +15,25 @@
 ---
 
 ### Lenguajes de Programación, Frameworks, Bases de Datos y Herramientas:
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg"></code>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&show_icons=true&theme=radical" />
+<h3>📊 GitHub Estadistíca: </h3>
+
+---
+
+
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=midnight-purple&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
+
+
+
+
+<h3>📊 GitHub Trofeos: </h3>
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=danielrivera03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
