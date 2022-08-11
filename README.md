@@ -25,14 +25,14 @@
 
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=midnight-purple&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 
 
 
-<h3>📊 GitHub Trofeos: </h3>
+<h3>🏆 GitHub Trofeos: </h3>
 
 ---
 
