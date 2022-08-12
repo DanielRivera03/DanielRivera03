@@ -33,6 +33,9 @@
 </p>
 
 
+
+
+
 <p align="center">
 
 
@@ -52,6 +55,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=danielrivera03&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
+----
 
 <p align="center"> 
 
