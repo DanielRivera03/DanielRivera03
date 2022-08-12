@@ -27,18 +27,18 @@
 
 
 
-<div align="left"> 
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=midnight-purple&hide_border=false&include_all_commits=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=midnight-purple&hide_border=false" />
-</div>
+</p>
 
 
-<div align="center">
+<p align="center">
 
 
 ![Metrics](https://metrics.lecoq.io/danielrivera03?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=dark&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FEl_Salvador&config.twemoji=true)
 
-</div>
+</p>
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-<img align="right" height="325" width="550" alt="" src="https://user-images.githubusercontent.com/44457989/184446382-1fd15255-d461-4c0e-8e41-16a6fa1e94a8.gif" />
+<img align="right" height="325" width="450" alt="" src="https://user-images.githubusercontent.com/44457989/184446382-1fd15255-d461-4c0e-8e41-16a6fa1e94a8.gif" />
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316wkg4i2275dt4xs7i2t6wbdv2y&unique={true})
