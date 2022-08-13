@@ -60,18 +60,29 @@
 
 ----
 
-<p align="center"> 
-
-<img src="https://user-images.githubusercontent.com/44457989/184447086-2089c694-46d9-4beb-a4d9-86d71918845b.gif" width="90px" />
-
-</p>
 
 
-
-<img align="right" height="295" width="340" alt="" src="https://user-images.githubusercontent.com/44457989/184446382-1fd15255-d461-4c0e-8e41-16a6fa1e94a8.gif" />
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/44457989/184446382-1fd15255-d461-4c0e-8e41-16a6fa1e94a8.gif" />
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316wkg4i2275dt4xs7i2t6wbdv2y&unique={true})
+
+
+
+<h2 align="center">- <img height="90" width="90" src="https://user-images.githubusercontent.com/44457989/184447086-2089c694-46d9-4beb-a4d9-86d71918845b.gif"> -</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
