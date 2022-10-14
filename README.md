@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=vision-friendly-dark&hide_border=false&include_all_commits=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=leafy&hide_border=false" />
  <img  width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielrivera03&theme=tokyonight&hide_border=true" alt="danielrivera03"/>
-<img width="50%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css&theme=ocean_dark&hide_border=false&langs_count=20" />
+<img width="100%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css&theme=ocean_dark&hide_border=false&langs_count=20" />
 </p>
 
 
