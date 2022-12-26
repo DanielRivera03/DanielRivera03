@@ -41,7 +41,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=leafy&hide_border=false" />
  <img  width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielrivera03&theme=tokyonight&hide_border=true" alt="danielrivera03"/>
 <img width="100%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css,papyrus&theme=ocean_dark&hide_border=false&langs_count=30" />
-</p>
+   <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielrivera03&theme=tokyonight" alt="danielrivera03"/>
+  <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielrivera03&&theme=tokyonight" alt="danielrivera03"/>
+ 
 
 
 
