@@ -1,4 +1,4 @@
-[![Instagram Badge](https://img.shields.io/badge/-@danielrivera03-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/danielrivera03//)](https://www.instagram.com/danielrivera03/)
+
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-xxx?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 -->
