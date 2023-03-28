@@ -24,9 +24,20 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,java,js,jquery,html,css,bootstrap,sass,mysql,postgres,selenium,ps,visualstudio,vscode,git,github" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="65" height="65">
+  
+          
 </p>
 
 
@@ -37,12 +48,12 @@
 
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=vision-friendly-dark&hide_border=false&include_all_commits=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=leafy&hide_border=false" />
- <img  width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielrivera03&theme=tokyonight&hide_border=true" alt="danielrivera03"/>
-<img width="100%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css,papyrus&theme=ocean_dark&hide_border=false&langs_count=30" />
-   <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielrivera03&theme=tokyonight" alt="danielrivera03"/>
-  <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielrivera03&&theme=tokyonight" alt="danielrivera03"/>
+<img src="https://github-readme-stats.vercel.app/api?username=danielrivera03&theme=aura&hide_border=false&include_all_commits=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrivera03&theme=aura&hide_border=false" />
+ <img  width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielrivera03&theme=aura&hide_border=true" alt="danielrivera03"/>
+<img width="100%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css,papyrus&theme=aura&hide_border=false&langs_count=30" />
+   <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielrivera03&theme=highcontrast" alt="danielrivera03"/>
+  <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielrivera03&&theme=highcontrast" alt="danielrivera03"/>
  
 
 
@@ -54,8 +65,7 @@
 
 
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=danielrivera03&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
-
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=danielrivera03&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
 
 
 
