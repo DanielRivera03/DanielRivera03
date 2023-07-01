@@ -54,6 +54,9 @@
 <img width="100%" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrivera03&&hide=html,css,papyrus&theme=aura&hide_border=false&langs_count=30" />
    <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielrivera03&theme=highcontrast" alt="danielrivera03"/>
   <img width="80%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielrivera03&&theme=highcontrast" alt="danielrivera03"/>
+  <img width="40%" height="350px" src="https://api.githubtrends.io/user/svg/DanielRivera03/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="danielrivera03"/>
+
+  
  
 
 
